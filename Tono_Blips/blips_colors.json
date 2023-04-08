@@ -1,0 +1,432 @@
+[
+  {
+    "id": "0",
+    "name": "White",
+    "color": "#fefefe"
+  },
+  {
+    "id": "1",
+    "name": "Red",
+    "color": "#e03232"
+  },
+  {
+    "id": "2",
+    "name": "Green",
+    "color": "#71cb71"
+  },
+  {
+    "id": "3",
+    "name": "Blue",
+    "color": "#5db6e5"
+  },
+  {
+    "id": "4",
+    "name": "White",
+    "color": "#fefefe"
+  },
+  {
+    "id": "5",
+    "name": "Yellow",
+    "color": "#eec64e"
+  },
+  {
+    "id": "6",
+    "name": "Light Red",
+    "color": "#c25050"
+  },
+  {
+    "id": "7",
+    "name": "Violet",
+    "color": "#9c6eaf"
+  },
+  {
+    "id": "8",
+    "name": "Pink",
+    "color": "#fe7ac3"
+  },
+  {
+    "id": "9",
+    "name": "Light Orange",
+    "color": "#f59d79"
+  },
+  {
+    "id": "10",
+    "name": "Light Brown",
+    "color": "#b18f83"
+  },
+  {
+    "id": "11",
+    "name": "Light Green",
+    "color": "#8dcea7"
+  },
+  {
+    "id": "12",
+    "name": "Light Blue",
+    "color": "#70a8ae"
+  },
+  {
+    "id": "13",
+    "name": "Light Purple",
+    "color": "#d3d1e7"
+  },
+  {
+    "id": "14",
+    "name": "Dark Purple",
+    "color": "#8f7e98"
+  },
+  {
+    "id": "15",
+    "name": "Cyan",
+    "color": "#6ac4bf"
+  },
+  {
+    "id": "16",
+    "name": "Light Yellow",
+    "color": "#d5c398"
+  },
+  {
+    "id": "17",
+    "name": "Orange",
+    "color": "#ea8e50"
+  },
+  {
+    "id": "18",
+    "name": "Light Blue",
+    "color": "#97cae9"
+  },
+  {
+    "id": "19",
+    "name": "Dark Pink",
+    "color": "#b26287"
+  },
+  {
+    "id": "20",
+    "name": "Dark Yellow",
+    "color": "#8f8d79"
+  },
+  {
+    "id": "21",
+    "name": "Dark Orange",
+    "color": "#a6755e"
+  },
+  {
+    "id": "22",
+    "name": "Light Gray",
+    "color": "#afa8a8"
+  },
+  {
+    "id": "23",
+    "name": "Light Pink",
+    "color": "#e78d9a"
+  },
+  {
+    "id": "24",
+    "name": "Lemon Green",
+    "color": "#bbd65b"
+  },
+  {
+    "id": "25",
+    "name": "Forest Green",
+    "color": "#0c7b56"
+  },
+  {
+    "id": "26",
+    "name": "Electric Blue",
+    "color": "#7ac3fe"
+  },
+  {
+    "id": "27",
+    "name": "Bright Purple",
+    "color": "#ab3ce6"
+  },
+  {
+    "id": "28",
+    "name": "Dark Yellow",
+    "color": "#cda80c"
+  },
+  {
+    "id": "29",
+    "name": "Dark Blue",
+    "color": "#4561ab"
+  },
+  {
+    "id": "30",
+    "name": "Dark Cyan",
+    "color": "#29a5b8"
+  },
+  {
+    "id": "31",
+    "name": "Light Brown",
+    "color": "#b89b7b"
+  },
+  {
+    "id": "32",
+    "name": "Light Blue",
+    "color": "#c8e0fe"
+  },
+  {
+    "id": "33",
+    "name": "Light Yellow",
+    "color": "#f0f096"
+  },
+  {
+    "id": "34",
+    "name": "Light Pink",
+    "color": "#ed8ca1"
+  },
+  {
+    "id": "35",
+    "name": "Light Red",
+    "color": "#f98a8a"
+  },
+  {
+    "id": "36",
+    "name": "Beige",
+    "color": "#fbeea5"
+  },
+  {
+    "id": "37",
+    "name": "White",
+    "color": "#fefefe"
+  },
+  {
+    "id": "38",
+    "name": "Blue",
+    "color": "#2c6db8"
+  },
+  {
+    "id": "39",
+    "name": "Light Gray",
+    "color": "#9a9a9a"
+  },
+  {
+    "id": "40",
+    "name": "Dark Gray",
+    "color": "#4c4c4c"
+  },
+  {
+    "id": "41",
+    "name": "Pink Red",
+    "color": "#F29D9D"
+  },
+  {
+    "id": "42",
+    "name": "Blue",
+    "color": "#6CB7D6"
+  },
+  {
+    "id": "43",
+    "name": "Light Green",
+    "color": "#AFEDAE"
+  },
+  {
+    "id": "44",
+    "name": "Light Orange",
+    "color": "#FFA75F"
+  },
+  {
+    "id": "45",
+    "name": "White",
+    "color": "#F1F1F1"
+  },
+  {
+    "id": "46",
+    "name": "Gold",
+    "color": "#ECF029"
+  },
+  {
+    "id": "47",
+    "name": "Orange",
+    "color": "#FF9A18"
+  },
+  {
+    "id": "48",
+    "name": "Brilliant Rose",
+    "color": "#F644A5"
+  },
+  {
+    "id": "49",
+    "name": "Red",
+    "color": "#E03A3A"
+  },
+  {
+    "id": "50",
+    "name": "Medium Purple",
+    "color": "#8A6DE3"
+  },
+  {
+    "id": "51",
+    "name": "Salmon",
+    "color": "#FF8B5C"
+  },
+  {
+    "id": "52",
+    "name": "Dark Green",
+    "color": "#416C41"
+  },
+  {
+    "id": "53",
+    "name": "Blizzard Blue",
+    "color": "#B3DDF3"
+  },
+  {
+    "id": "54",
+    "name": "Oracle Blue",
+    "color": "#3A6479"
+  },
+  {
+    "id": "55",
+    "name": "Silver",
+    "color": "#A0A0A0"
+  },
+  {
+    "id": "56",
+    "name": "Brown",
+    "color": "#847232"
+  },
+  {
+    "id": "57",
+    "name": "Blue",
+    "color": "#65B9E7"
+  },
+  {
+    "id": "58",
+    "name": "East Bay",
+    "color": "#4B4175"
+  },
+  {
+    "id": "59",
+    "name": "Red",
+    "color": "#E13B3B"
+  },
+  {
+    "id": "60",
+    "name": "Yellow Orange",
+    "color": "#F0CB58"
+  },
+  {
+    "id": "61",
+    "name": "Mulberry Pink",
+    "color": "#CD3F98"
+  },
+  {
+    "id": "62",
+    "name": "Alto Gray",
+    "color": "#CFCFCF"
+  },
+  {
+    "id": "63",
+    "name": "Jelly Bean Blue",
+    "color": "#276A9F"
+  },
+  {
+    "id": "64",
+    "name": "Dark Orange",
+    "color": "#D87B1B"
+  },
+  {
+    "id": "65",
+    "name": "Mamba",
+    "color": "#8E8393"
+  },
+  {
+    "id": "66",
+    "name": "Yellow Orange",
+    "color": "#F0CB57"
+  },
+  {
+    "id": "67",
+    "name": "Blue",
+    "color": "#65B9E7"
+  },
+  {
+    "id": "68",
+    "name": "Blue",
+    "color": "#65B9E7"
+  },
+  {
+    "id": "69",
+    "name": "Green",
+    "color": "#79CD79"
+  },
+  {
+    "id": "70",
+    "name": "Yellow Orange",
+    "color": "#EFCA57"
+  },
+  {
+    "id": "71",
+    "name": "Yellow Orange",
+    "color": "#EFCA57"
+  },
+  {
+    "id": "72",
+    "name": "Transparent Black",
+    "color": "#3D3D3D"
+  },
+  {
+    "id": "73",
+    "name": "Yellow Orange",
+    "color": "#EFCA57"
+  },
+  {
+    "id": "74",
+    "name": "Blue",
+    "color": "#65B9E7"
+  },
+  {
+    "id": "75",
+    "name": "Red",
+    "color": "#e03232"
+  },
+  {
+    "id": "76",
+    "name": "Deep red",
+    "color": "#782323"
+  },
+  {
+    "id": "77",
+    "name": "Blue",
+    "color": "#65B9E7"
+  },
+  {
+    "id": "78",
+    "name": "Oracle Blue",
+    "color": "#3A6479"
+  },
+  {
+    "id": "79",
+    "name": "Transparent Red",
+    "color": "#e03232"
+  },
+  {
+    "id": "80",
+    "name": "Transparent Blue",
+    "color": "#65B9E7"
+  },
+  {
+    "id": "81",
+    "name": "Orange",
+    "color": "#F2A40C"
+  },
+  {
+    "id": "82",
+    "name": "Light Green",
+    "color": "#A4CCAA"
+  },
+  {
+    "id": "83",
+    "name": "Purple",
+    "color": "#A854F2"
+  },
+  {
+    "id": "84",
+    "name": "Blue",
+    "color": "#65B9E7"
+  },
+  {
+    "id": "85",
+    "name": "Transparent Black",
+    "color": "#3D3D3D"
+  }
+]
