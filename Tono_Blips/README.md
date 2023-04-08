@@ -1,3 +1,8 @@
+EXTRACT THE BLIPS ZIP LOCATED IN CLIENTE/NUI
+
+
+
+
 Tono_Blips
 
 Agrega esto a tu archivo server.cfg / Add this to your server.cfg:
