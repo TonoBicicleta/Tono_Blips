@@ -25,7 +25,3 @@ files {
     'Cliente/nui/reset.css',
     'Cliente/nui/blips/*.png'
 }
-
-escrow_ignore {
-    "Config/*.lua"
-}
